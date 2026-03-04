@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useMemo } from 'react';
+import React, { useMemo, useState } from 'react';
 import { useDashboard, TimeRange } from '../context/DashboardContext';
 import commodityData from '../data/commodity_prices.json';
 import { CommodityPrice } from '../types';
@@ -35,27 +35,69 @@ export default function CommodityChart() {
         { label: '1Y', value: '1Y' },
     ];
 
+    const [visibleLines, setVisibleLines] = useState({
+        aluminum: true,
+        alumina: true,
+        bauxite: true
+    });
+
+    const toggleLine = (key: keyof typeof visibleLines) => {
+        setVisibleLines((prev: typeof visibleLines) => ({ ...prev, [key]: !prev[key] }));
+    };
+
     return (
         <div className="bg-slate-800 border border-slate-700 rounded-lg p-4 flex flex-col h-full">
             {/* Header and Controls */}
-            <div className="flex justify-between items-center mb-4 shrink-0">
+            <div className="flex justify-between items-center mb-4 shrink-0 flex-wrap gap-2">
                 <div>
                     <h2 className="text-lg font-semibold text-slate-50">Commodity Prices</h2>
                     <p className="text-sm text-slate-400">USD per Metric Ton</p>
                 </div>
-                <div className="flex gap-1 bg-slate-900 rounded-lg p-1 border border-slate-700">
-                    {timeButtons.map((btn) => (
+
+                <div className="flex flex-col sm:flex-row gap-2 items-end sm:items-center">
+                    {/* Commodity Toggles */}
+                    <div className="flex gap-2">
                         <button
-                            key={btn.value}
-                            onClick={() => setTimeRange(btn.value)}
-                            className={`px-3 py-1 text-sm font-medium rounded-md transition-colors ${timeRange === btn.value
-                                ? 'bg-blue-600 text-white shadow-sm'
-                                : 'text-slate-400 hover:text-slate-200 hover:bg-slate-800'
+                            onClick={() => toggleLine('aluminum')}
+                            className={`flex items-center gap-1.5 px-2 py-1 rounded text-xs font-medium border transition-colors ${visibleLines.aluminum ? 'bg-blue-500/10 border-blue-500/30 text-blue-400' : 'bg-slate-800 border-slate-700 text-slate-500 hover:text-slate-400'
                                 }`}
                         >
-                            {btn.label}
+                            <div className={`w-2 h-2 rounded-full ${visibleLines.aluminum ? 'bg-blue-500' : 'bg-slate-600'}`}></div>
+                            Aluminum
                         </button>
-                    ))}
+                        <button
+                            onClick={() => toggleLine('alumina')}
+                            className={`flex items-center gap-1.5 px-2 py-1 rounded text-xs font-medium border transition-colors ${visibleLines.alumina ? 'bg-amber-500/10 border-amber-500/30 text-amber-400' : 'bg-slate-800 border-slate-700 text-slate-500 hover:text-slate-400'
+                                }`}
+                        >
+                            <div className={`w-2 h-2 rounded-full ${visibleLines.alumina ? 'bg-amber-500' : 'bg-slate-600'}`}></div>
+                            Alumina
+                        </button>
+                        <button
+                            onClick={() => toggleLine('bauxite')}
+                            className={`flex items-center gap-1.5 px-2 py-1 rounded text-xs font-medium border transition-colors ${visibleLines.bauxite ? 'bg-emerald-500/10 border-emerald-500/30 text-emerald-400' : 'bg-slate-800 border-slate-700 text-slate-500 hover:text-slate-400'
+                                }`}
+                        >
+                            <div className={`w-2 h-2 rounded-full ${visibleLines.bauxite ? 'bg-emerald-500' : 'bg-slate-600'}`}></div>
+                            Bauxite
+                        </button>
+                    </div>
+
+                    {/* Time Range Controls */}
+                    <div className="flex gap-1 bg-slate-900 rounded-lg p-1 border border-slate-700">
+                        {timeButtons.map((btn) => (
+                            <button
+                                key={btn.value}
+                                onClick={() => setTimeRange(btn.value)}
+                                className={`px-3 py-1 text-sm font-medium rounded-md transition-colors ${timeRange === btn.value
+                                    ? 'bg-blue-600 text-white shadow-sm'
+                                    : 'text-slate-400 hover:text-slate-200 hover:bg-slate-800'
+                                    }`}
+                            >
+                                {btn.label}
+                            </button>
+                        ))}
+                    </div>
                 </div>
             </div>
 
@@ -86,8 +128,9 @@ export default function CommodityChart() {
                                 contentStyle={{ backgroundColor: '#1e293b', borderColor: '#334155', color: '#f8fafc' }}
                                 itemStyle={{ color: '#f8fafc' }}
                             />
-                            <Legend wrapperStyle={{ paddingTop: '10px' }} />
+                            {/* We hid the default legend because we built a custom one above */}
                             <Line
+                                hide={!visibleLines.aluminum}
                                 type="monotone"
                                 dataKey="aluminum"
                                 name="Aluminum"
@@ -97,6 +140,7 @@ export default function CommodityChart() {
                                 activeDot={{ r: 6 }}
                             />
                             <Line
+                                hide={!visibleLines.alumina}
                                 type="monotone"
                                 dataKey="alumina"
                                 name="Alumina"
@@ -105,6 +149,7 @@ export default function CommodityChart() {
                                 dot={false}
                             />
                             <Line
+                                hide={!visibleLines.bauxite}
                                 type="monotone"
                                 dataKey="bauxite"
                                 name="Bauxite"
