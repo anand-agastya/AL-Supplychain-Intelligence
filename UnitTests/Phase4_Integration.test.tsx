@@ -28,13 +28,13 @@ describe('Phase 4: Integration & Interactivity', () => {
         // Intially no actve event
         expect(screen.getByTestId('active-event-id').textContent).toBe('None');
 
-        // Find the first event (from the mock events array, e.g evt-001)
-        const eventTitle = screen.getByText('Port Strike in Guinea');
+        // Find the first event (from the mock events array, e.g evt-004)
+        const eventTitle = screen.getByText('Wildcat Strike at Sangarédi');
         const eventButton = eventTitle.closest('button');
 
         // Click and verify context updated
         fireEvent.click(eventButton!);
-        expect(screen.getByTestId('active-event-id').textContent).toBe('evt-001');
+        expect(screen.getByTestId('active-event-id').textContent).toBe('evt-004');
 
         // Click again to deselect
         fireEvent.click(eventButton!);

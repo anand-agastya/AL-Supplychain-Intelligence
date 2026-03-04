@@ -5,6 +5,10 @@ import SupplierTable from "../../components/SupplierTable";
 import EventFeed from "../../components/EventFeed";
 import CommodityChart from "../../components/CommodityChart";
 import MapWrapper from "../../components/MapWrapper";
+import SlideOutDrawer from "../../components/SlideOutDrawer";
+import AlertsDrawer from "../../components/drawers/AlertsDrawer";
+import LogisticsDrawer from "../../components/drawers/LogisticsDrawer";
+import MarketDrawer from "../../components/drawers/MarketDrawer";
 
 export default function Home() {
   return (
@@ -56,6 +60,21 @@ export default function Home() {
 
           </div>
         </div>
+
+        {/* Drawers */}
+        <SlideOutDrawer title="Risk Analysis" drawerId="risk">
+          <p className="text-slate-400">Advanced risk models computing... (Future Phase)</p>
+        </SlideOutDrawer>
+        <SlideOutDrawer title="Triage Inbox" drawerId="alerts">
+          <AlertsDrawer />
+        </SlideOutDrawer>
+        <SlideOutDrawer title="Market Analytics" drawerId="market">
+          <MarketDrawer />
+        </SlideOutDrawer>
+        <SlideOutDrawer title="Maritime Logistics" drawerId="logistics">
+          <LogisticsDrawer />
+        </SlideOutDrawer>
+
       </main>
     </DashboardProvider>
   );

@@ -64,7 +64,7 @@ function MapController() {
 }
 
 export default function GlobalRiskMap() {
-    const { setSelectedRegion, activeEvent } = useDashboard();
+    const { setSelectedRegion, activeEvent, highlightedSupplierIds, highlightedRouteId } = useDashboard();
     const suppliers = suppliersData as Supplier[];
     const routes = routesData as ShippingRoute[];
 
@@ -88,45 +88,71 @@ export default function GlobalRiskMap() {
                 <MapController />
 
                 {/* Render Routes */}
-                {routes.map((route) => (
-                    <Polyline
-                        key={route.id}
-                        positions={route.path}
-                        color={getRouteColor(route.status)}
-                        weight={route.status === 'Clear' ? 2 : 4}
-                        dashArray={route.status === 'Congested' ? '5, 10' : undefined}
-                        opacity={0.6}
-                    >
-                        <Popup className="dark-popup">
-                            <div className="p-1">
-                                <p className="font-bold text-slate-800">{route.name}</p>
-                                <p className="text-sm">Status: {route.status}</p>
-                            </div>
-                        </Popup>
-                    </Polyline>
-                ))}
+                {routes.map((route) => {
+                    const isHighlighted = route.id === highlightedRouteId;
+                    return (
+                        <Polyline
+                            key={route.id}
+                            positions={route.path}
+                            color={isHighlighted ? '#f8fafc' : getRouteColor(route.status)}
+                            weight={isHighlighted ? 6 : (route.status === 'Clear' ? 2 : 4)}
+                            dashArray={route.status === 'Congested' ? '5, 10' : undefined}
+                            opacity={isHighlighted ? 0.9 : 0.6}
+                        >
+                            <Popup className="dark-popup">
+                                <div className="p-1">
+                                    <p className="font-bold text-slate-800">{route.name}</p>
+                                    <p className="text-sm">Status: {route.status}</p>
+                                </div>
+                            </Popup>
+                        </Polyline>
+                    );
+                })}
 
                 {/* Render Suppliers */}
-                {suppliers.map((supplier) => (
-                    <Marker
-                        key={supplier.id}
-                        position={supplier.coordinates}
-                        icon={getStatusIcon(supplier.status)}
-                        eventHandlers={{
-                            click: () => {
-                                setSelectedRegion(supplier.region);
-                            }
-                        }}
-                    >
-                        <Popup>
-                            <div className="p-1">
-                                <p className="font-bold text-slate-800">{supplier.name}</p>
-                                <p className="text-sm">Type: {supplier.type}</p>
-                                <p className="text-sm">Risk Score: {supplier.riskScore}</p>
-                            </div>
-                        </Popup>
-                    </Marker>
-                ))}
+                {suppliers.map((supplier) => {
+                    const isHighlighted = highlightedSupplierIds.includes(supplier.id);
+
+                    // If highlighted, wrap the normal icon logic with an extra pulsing div using L.divIcon
+                    let iconToUse = getStatusIcon(supplier.status);
+                    if (isHighlighted) {
+                        iconToUse = L.divIcon({
+                            className: 'custom-div-icon highlighted-supplier',
+                            html: `
+                              <div style="position: relative;">
+                                <div class="absolute -inset-2 rounded-full border-2 border-slate-50 border-dashed animate-pulse" style="z-index: 0"></div>
+                                <div style="background-color: ${supplier.status === 'Normal' ? '#22c55e' :
+                                    supplier.status === 'At Risk' ? '#eab308' : '#ef4444'
+                                }; width: 16px; height: 16px; border-radius: 50%; border: 2px solid white; box-shadow: 0 0 8px white; position: relative; z-index: 10;"></div>
+                              </div>
+                            `,
+                            iconSize: [20, 20],
+                            iconAnchor: [10, 10],
+                        });
+                    }
+
+                    return (
+                        <Marker
+                            key={supplier.id}
+                            position={supplier.coordinates}
+                            icon={iconToUse}
+                            zIndexOffset={isHighlighted ? 1000 : 0}
+                            eventHandlers={{
+                                click: () => {
+                                    setSelectedRegion(supplier.region);
+                                }
+                            }}
+                        >
+                            <Popup>
+                                <div className="p-1">
+                                    <p className="font-bold text-slate-800">{supplier.name}</p>
+                                    <p className="text-sm">Type: {supplier.type}</p>
+                                    <p className="text-sm">Risk Score: {supplier.riskScore}</p>
+                                </div>
+                            </Popup>
+                        </Marker>
+                    );
+                })}
 
                 {/* Render Active Event Pulse if exists */}
                 {activeEvent && (
