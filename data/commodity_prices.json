@@ -1,0 +1,2192 @@
+[
+  {
+    "date": "2025-03-04",
+    "aluminum": 2413.95,
+    "alumina": 348.58,
+    "bauxite": 45.36
+  },
+  {
+    "date": "2025-03-05",
+    "aluminum": 2428.62,
+    "alumina": 352.03,
+    "bauxite": 45.33
+  },
+  {
+    "date": "2025-03-06",
+    "aluminum": 2430.46,
+    "alumina": 350.33,
+    "bauxite": 45.46
+  },
+  {
+    "date": "2025-03-07",
+    "aluminum": 2434.41,
+    "alumina": 346.15,
+    "bauxite": 45.79
+  },
+  {
+    "date": "2025-03-08",
+    "aluminum": 2447.51,
+    "alumina": 347.82,
+    "bauxite": 46.13
+  },
+  {
+    "date": "2025-03-09",
+    "aluminum": 2437.71,
+    "alumina": 349.3,
+    "bauxite": 46.19
+  },
+  {
+    "date": "2025-03-10",
+    "aluminum": 2436.64,
+    "alumina": 346.77,
+    "bauxite": 46.14
+  },
+  {
+    "date": "2025-03-11",
+    "aluminum": 2452.47,
+    "alumina": 343.72,
+    "bauxite": 46.21
+  },
+  {
+    "date": "2025-03-12",
+    "aluminum": 2443.57,
+    "alumina": 339.51,
+    "bauxite": 45.81
+  },
+  {
+    "date": "2025-03-13",
+    "aluminum": 2446.38,
+    "alumina": 338.26,
+    "bauxite": 45.59
+  },
+  {
+    "date": "2025-03-14",
+    "aluminum": 2460.51,
+    "alumina": 340.93,
+    "bauxite": 45.65
+  },
+  {
+    "date": "2025-03-15",
+    "aluminum": 2441.53,
+    "alumina": 341.11,
+    "bauxite": 45.2
+  },
+  {
+    "date": "2025-03-16",
+    "aluminum": 2444.54,
+    "alumina": 345.55,
+    "bauxite": 45.0
+  },
+  {
+    "date": "2025-03-17",
+    "aluminum": 2462.82,
+    "alumina": 347.04,
+    "bauxite": 44.71
+  },
+  {
+    "date": "2025-03-18",
+    "aluminum": 2475.13,
+    "alumina": 343.09,
+    "bauxite": 44.41
+  },
+  {
+    "date": "2025-03-19",
+    "aluminum": 2470.15,
+    "alumina": 340.06,
+    "bauxite": 44.83
+  },
+  {
+    "date": "2025-03-20",
+    "aluminum": 2481.9,
+    "alumina": 343.08,
+    "bauxite": 44.4
+  },
+  {
+    "date": "2025-03-21",
+    "aluminum": 2502.82,
+    "alumina": 341.74,
+    "bauxite": 44.67
+  },
+  {
+    "date": "2025-03-22",
+    "aluminum": 2487.2,
+    "alumina": 346.48,
+    "bauxite": 44.79
+  },
+  {
+    "date": "2025-03-23",
+    "aluminum": 2481.64,
+    "alumina": 346.39,
+    "bauxite": 44.48
+  },
+  {
+    "date": "2025-03-24",
+    "aluminum": 2495.61,
+    "alumina": 341.67,
+    "bauxite": 44.94
+  },
+  {
+    "date": "2025-03-25",
+    "aluminum": 2503.82,
+    "alumina": 346.26,
+    "bauxite": 45.27
+  },
+  {
+    "date": "2025-03-26",
+    "aluminum": 2499.15,
+    "alumina": 342.1,
+    "bauxite": 45.08
+  },
+  {
+    "date": "2025-03-27",
+    "aluminum": 2493.49,
+    "alumina": 345.08,
+    "bauxite": 45.41
+  },
+  {
+    "date": "2025-03-28",
+    "aluminum": 2510.75,
+    "alumina": 340.11,
+    "bauxite": 45.03
+  },
+  {
+    "date": "2025-03-29",
+    "aluminum": 2510.82,
+    "alumina": 340.58,
+    "bauxite": 45.47
+  },
+  {
+    "date": "2025-03-30",
+    "aluminum": 2500.71,
+    "alumina": 344.52,
+    "bauxite": 45.64
+  },
+  {
+    "date": "2025-03-31",
+    "aluminum": 2488.01,
+    "alumina": 349.34,
+    "bauxite": 45.42
+  },
+  {
+    "date": "2025-04-01",
+    "aluminum": 2505.62,
+    "alumina": 350.53,
+    "bauxite": 45.71
+  },
+  {
+    "date": "2025-04-02",
+    "aluminum": 2494.13,
+    "alumina": 350.01,
+    "bauxite": 45.41
+  },
+  {
+    "date": "2025-04-03",
+    "aluminum": 2508.09,
+    "alumina": 351.21,
+    "bauxite": 44.99
+  },
+  {
+    "date": "2025-04-04",
+    "aluminum": 2505.18,
+    "alumina": 351.97,
+    "bauxite": 44.84
+  },
+  {
+    "date": "2025-04-05",
+    "aluminum": 2492.5,
+    "alumina": 347.84,
+    "bauxite": 44.76
+  },
+  {
+    "date": "2025-04-06",
+    "aluminum": 2486.2,
+    "alumina": 343.66,
+    "bauxite": 44.41
+  },
+  {
+    "date": "2025-04-07",
+    "aluminum": 2491.97,
+    "alumina": 344.01,
+    "bauxite": 44.33
+  },
+  {
+    "date": "2025-04-08",
+    "aluminum": 2509.25,
+    "alumina": 343.56,
+    "bauxite": 44.79
+  },
+  {
+    "date": "2025-04-09",
+    "aluminum": 2503.49,
+    "alumina": 343.9,
+    "bauxite": 45.07
+  },
+  {
+    "date": "2025-04-10",
+    "aluminum": 2496.04,
+    "alumina": 348.52,
+    "bauxite": 44.75
+  },
+  {
+    "date": "2025-04-11",
+    "aluminum": 2478.68,
+    "alumina": 350.1,
+    "bauxite": 44.53
+  },
+  {
+    "date": "2025-04-12",
+    "aluminum": 2485.24,
+    "alumina": 346.06,
+    "bauxite": 44.42
+  },
+  {
+    "date": "2025-04-13",
+    "aluminum": 2481.21,
+    "alumina": 342.21,
+    "bauxite": 44.46
+  },
+  {
+    "date": "2025-04-14",
+    "aluminum": 2495.24,
+    "alumina": 340.07,
+    "bauxite": 44.59
+  },
+  {
+    "date": "2025-04-15",
+    "aluminum": 2491.39,
+    "alumina": 341.8,
+    "bauxite": 44.34
+  },
+  {
+    "date": "2025-04-16",
+    "aluminum": 2495.43,
+    "alumina": 343.24,
+    "bauxite": 44.03
+  },
+  {
+    "date": "2025-04-17",
+    "aluminum": 2513.07,
+    "alumina": 343.64,
+    "bauxite": 44.08
+  },
+  {
+    "date": "2025-04-18",
+    "aluminum": 2529.64,
+    "alumina": 339.73,
+    "bauxite": 44.3
+  },
+  {
+    "date": "2025-04-19",
+    "aluminum": 2521.46,
+    "alumina": 343.87,
+    "bauxite": 44.02
+  },
+  {
+    "date": "2025-04-20",
+    "aluminum": 2512.41,
+    "alumina": 348.61,
+    "bauxite": 43.54
+  },
+  {
+    "date": "2025-04-21",
+    "aluminum": 2511.92,
+    "alumina": 345.93,
+    "bauxite": 43.35
+  },
+  {
+    "date": "2025-04-22",
+    "aluminum": 2516.33,
+    "alumina": 346.63,
+    "bauxite": 43.16
+  },
+  {
+    "date": "2025-04-23",
+    "aluminum": 2532.69,
+    "alumina": 350.23,
+    "bauxite": 43.6
+  },
+  {
+    "date": "2025-04-24",
+    "aluminum": 2542.36,
+    "alumina": 348.65,
+    "bauxite": 43.48
+  },
+  {
+    "date": "2025-04-25",
+    "aluminum": 2543.41,
+    "alumina": 351.59,
+    "bauxite": 43.2
+  },
+  {
+    "date": "2025-04-26",
+    "aluminum": 2539.45,
+    "alumina": 354.33,
+    "bauxite": 43.41
+  },
+  {
+    "date": "2025-04-27",
+    "aluminum": 2554.64,
+    "alumina": 354.87,
+    "bauxite": 43.13
+  },
+  {
+    "date": "2025-04-28",
+    "aluminum": 2535.2,
+    "alumina": 353.31,
+    "bauxite": 43.45
+  },
+  {
+    "date": "2025-04-29",
+    "aluminum": 2516.68,
+    "alumina": 355.19,
+    "bauxite": 43.17
+  },
+  {
+    "date": "2025-04-30",
+    "aluminum": 2525.11,
+    "alumina": 353.66,
+    "bauxite": 43.12
+  },
+  {
+    "date": "2025-05-01",
+    "aluminum": 2519.59,
+    "alumina": 358.68,
+    "bauxite": 42.97
+  },
+  {
+    "date": "2025-05-02",
+    "aluminum": 2509.24,
+    "alumina": 354.8,
+    "bauxite": 43.15
+  },
+  {
+    "date": "2025-05-03",
+    "aluminum": 2519.87,
+    "alumina": 358.22,
+    "bauxite": 43.19
+  },
+  {
+    "date": "2025-05-04",
+    "aluminum": 2538.21,
+    "alumina": 363.32,
+    "bauxite": 43.67
+  },
+  {
+    "date": "2025-05-05",
+    "aluminum": 2543.8,
+    "alumina": 365.84,
+    "bauxite": 43.21
+  },
+  {
+    "date": "2025-05-06",
+    "aluminum": 2564.6,
+    "alumina": 364.16,
+    "bauxite": 43.6
+  },
+  {
+    "date": "2025-05-07",
+    "aluminum": 2574.86,
+    "alumina": 363.31,
+    "bauxite": 43.53
+  },
+  {
+    "date": "2025-05-08",
+    "aluminum": 2577.71,
+    "alumina": 361.24,
+    "bauxite": 43.21
+  },
+  {
+    "date": "2025-05-09",
+    "aluminum": 2586.97,
+    "alumina": 362.08,
+    "bauxite": 42.76
+  },
+  {
+    "date": "2025-05-10",
+    "aluminum": 2595.56,
+    "alumina": 366.47,
+    "bauxite": 42.77
+  },
+  {
+    "date": "2025-05-11",
+    "aluminum": 2611.97,
+    "alumina": 362.6,
+    "bauxite": 43.0
+  },
+  {
+    "date": "2025-05-12",
+    "aluminum": 2606.4,
+    "alumina": 363.16,
+    "bauxite": 43.35
+  },
+  {
+    "date": "2025-05-13",
+    "aluminum": 2617.26,
+    "alumina": 360.21,
+    "bauxite": 43.33
+  },
+  {
+    "date": "2025-05-14",
+    "aluminum": 2611.43,
+    "alumina": 361.23,
+    "bauxite": 43.39
+  },
+  {
+    "date": "2025-05-15",
+    "aluminum": 2624.67,
+    "alumina": 361.53,
+    "bauxite": 43.77
+  },
+  {
+    "date": "2025-05-16",
+    "aluminum": 2628.79,
+    "alumina": 366.32,
+    "bauxite": 43.86
+  },
+  {
+    "date": "2025-05-17",
+    "aluminum": 2617.68,
+    "alumina": 361.51,
+    "bauxite": 43.51
+  },
+  {
+    "date": "2025-05-18",
+    "aluminum": 2624.42,
+    "alumina": 360.0,
+    "bauxite": 43.4
+  },
+  {
+    "date": "2025-05-19",
+    "aluminum": 2606.14,
+    "alumina": 358.15,
+    "bauxite": 43.17
+  },
+  {
+    "date": "2025-05-20",
+    "aluminum": 2615.34,
+    "alumina": 356.79,
+    "bauxite": 42.81
+  },
+  {
+    "date": "2025-05-21",
+    "aluminum": 2602.27,
+    "alumina": 355.33,
+    "bauxite": 42.44
+  },
+  {
+    "date": "2025-05-22",
+    "aluminum": 2600.86,
+    "alumina": 357.85,
+    "bauxite": 42.31
+  },
+  {
+    "date": "2025-05-23",
+    "aluminum": 2611.47,
+    "alumina": 353.12,
+    "bauxite": 42.19
+  },
+  {
+    "date": "2025-05-24",
+    "aluminum": 2622.95,
+    "alumina": 357.95,
+    "bauxite": 42.57
+  },
+  {
+    "date": "2025-05-25",
+    "aluminum": 2623.25,
+    "alumina": 358.65,
+    "bauxite": 43.03
+  },
+  {
+    "date": "2025-05-26",
+    "aluminum": 2636.32,
+    "alumina": 359.59,
+    "bauxite": 43.49
+  },
+  {
+    "date": "2025-05-27",
+    "aluminum": 2638.21,
+    "alumina": 360.4,
+    "bauxite": 43.2
+  },
+  {
+    "date": "2025-05-28",
+    "aluminum": 2632.42,
+    "alumina": 363.91,
+    "bauxite": 43.16
+  },
+  {
+    "date": "2025-05-29",
+    "aluminum": 2618.94,
+    "alumina": 369.07,
+    "bauxite": 42.98
+  },
+  {
+    "date": "2025-05-30",
+    "aluminum": 2629.59,
+    "alumina": 366.86,
+    "bauxite": 42.67
+  },
+  {
+    "date": "2025-05-31",
+    "aluminum": 2627.66,
+    "alumina": 366.54,
+    "bauxite": 42.39
+  },
+  {
+    "date": "2025-06-01",
+    "aluminum": 2644.07,
+    "alumina": 362.14,
+    "bauxite": 42.65
+  },
+  {
+    "date": "2025-06-02",
+    "aluminum": 2641.83,
+    "alumina": 361.26,
+    "bauxite": 42.6
+  },
+  {
+    "date": "2025-06-03",
+    "aluminum": 2634.32,
+    "alumina": 361.32,
+    "bauxite": 42.12
+  },
+  {
+    "date": "2025-06-04",
+    "aluminum": 2640.3,
+    "alumina": 361.52,
+    "bauxite": 42.43
+  },
+  {
+    "date": "2025-06-05",
+    "aluminum": 2646.26,
+    "alumina": 360.2,
+    "bauxite": 42.3
+  },
+  {
+    "date": "2025-06-06",
+    "aluminum": 2665.2,
+    "alumina": 358.21,
+    "bauxite": 42.15
+  },
+  {
+    "date": "2025-06-07",
+    "aluminum": 2647.03,
+    "alumina": 359.05,
+    "bauxite": 42.3
+  },
+  {
+    "date": "2025-06-08",
+    "aluminum": 2652.77,
+    "alumina": 362.9,
+    "bauxite": 42.1
+  },
+  {
+    "date": "2025-06-09",
+    "aluminum": 2647.81,
+    "alumina": 364.8,
+    "bauxite": 41.93
+  },
+  {
+    "date": "2025-06-10",
+    "aluminum": 2632.58,
+    "alumina": 362.31,
+    "bauxite": 41.99
+  },
+  {
+    "date": "2025-06-11",
+    "aluminum": 2617.13,
+    "alumina": 358.1,
+    "bauxite": 41.81
+  },
+  {
+    "date": "2025-06-12",
+    "aluminum": 2616.11,
+    "alumina": 357.49,
+    "bauxite": 42.16
+  },
+  {
+    "date": "2025-06-13",
+    "aluminum": 2625.91,
+    "alumina": 357.32,
+    "bauxite": 42.26
+  },
+  {
+    "date": "2025-06-14",
+    "aluminum": 2621.71,
+    "alumina": 354.61,
+    "bauxite": 41.89
+  },
+  {
+    "date": "2025-06-15",
+    "aluminum": 2642.25,
+    "alumina": 356.38,
+    "bauxite": 42.09
+  },
+  {
+    "date": "2025-06-16",
+    "aluminum": 2658.49,
+    "alumina": 356.06,
+    "bauxite": 42.47
+  },
+  {
+    "date": "2025-06-17",
+    "aluminum": 2655.78,
+    "alumina": 356.55,
+    "bauxite": 42.57
+  },
+  {
+    "date": "2025-06-18",
+    "aluminum": 2647.69,
+    "alumina": 355.66,
+    "bauxite": 42.9
+  },
+  {
+    "date": "2025-06-19",
+    "aluminum": 2646.02,
+    "alumina": 357.63,
+    "bauxite": 43.16
+  },
+  {
+    "date": "2025-06-20",
+    "aluminum": 2663.56,
+    "alumina": 358.13,
+    "bauxite": 43.3
+  },
+  {
+    "date": "2025-06-21",
+    "aluminum": 2652.68,
+    "alumina": 356.29,
+    "bauxite": 43.13
+  },
+  {
+    "date": "2025-06-22",
+    "aluminum": 2642.02,
+    "alumina": 360.59,
+    "bauxite": 43.28
+  },
+  {
+    "date": "2025-06-23",
+    "aluminum": 2633.46,
+    "alumina": 355.73,
+    "bauxite": 42.84
+  },
+  {
+    "date": "2025-06-24",
+    "aluminum": 2631.61,
+    "alumina": 352.08,
+    "bauxite": 43.0
+  },
+  {
+    "date": "2025-06-25",
+    "aluminum": 2626.28,
+    "alumina": 352.06,
+    "bauxite": 42.82
+  },
+  {
+    "date": "2025-06-26",
+    "aluminum": 2639.67,
+    "alumina": 349.53,
+    "bauxite": 42.69
+  },
+  {
+    "date": "2025-06-27",
+    "aluminum": 2652.14,
+    "alumina": 352.69,
+    "bauxite": 42.27
+  },
+  {
+    "date": "2025-06-28",
+    "aluminum": 2651.87,
+    "alumina": 353.56,
+    "bauxite": 42.53
+  },
+  {
+    "date": "2025-06-29",
+    "aluminum": 2660.7,
+    "alumina": 349.47,
+    "bauxite": 42.1
+  },
+  {
+    "date": "2025-06-30",
+    "aluminum": 2673.24,
+    "alumina": 352.58,
+    "bauxite": 41.97
+  },
+  {
+    "date": "2025-07-01",
+    "aluminum": 2659.97,
+    "alumina": 352.06,
+    "bauxite": 42.2
+  },
+  {
+    "date": "2025-07-02",
+    "aluminum": 2650.63,
+    "alumina": 353.19,
+    "bauxite": 41.92
+  },
+  {
+    "date": "2025-07-03",
+    "aluminum": 2664.08,
+    "alumina": 352.54,
+    "bauxite": 41.65
+  },
+  {
+    "date": "2025-07-04",
+    "aluminum": 2671.68,
+    "alumina": 357.59,
+    "bauxite": 41.66
+  },
+  {
+    "date": "2025-07-05",
+    "aluminum": 2654.84,
+    "alumina": 356.59,
+    "bauxite": 42.08
+  },
+  {
+    "date": "2025-07-06",
+    "aluminum": 2636.03,
+    "alumina": 361.38,
+    "bauxite": 41.89
+  },
+  {
+    "date": "2025-07-07",
+    "aluminum": 2653.06,
+    "alumina": 360.32,
+    "bauxite": 41.87
+  },
+  {
+    "date": "2025-07-08",
+    "aluminum": 2652.94,
+    "alumina": 365.5,
+    "bauxite": 41.83
+  },
+  {
+    "date": "2025-07-09",
+    "aluminum": 2637.64,
+    "alumina": 363.95,
+    "bauxite": 42.25
+  },
+  {
+    "date": "2025-07-10",
+    "aluminum": 2649.09,
+    "alumina": 365.46,
+    "bauxite": 42.05
+  },
+  {
+    "date": "2025-07-11",
+    "aluminum": 2665.19,
+    "alumina": 368.14,
+    "bauxite": 42.52
+  },
+  {
+    "date": "2025-07-12",
+    "aluminum": 2649.69,
+    "alumina": 365.36,
+    "bauxite": 42.81
+  },
+  {
+    "date": "2025-07-13",
+    "aluminum": 2631.34,
+    "alumina": 368.74,
+    "bauxite": 43.13
+  },
+  {
+    "date": "2025-07-14",
+    "aluminum": 2631.74,
+    "alumina": 370.27,
+    "bauxite": 42.68
+  },
+  {
+    "date": "2025-07-15",
+    "aluminum": 2630.46,
+    "alumina": 373.22,
+    "bauxite": 42.82
+  },
+  {
+    "date": "2025-07-16",
+    "aluminum": 2645.69,
+    "alumina": 369.21,
+    "bauxite": 43.09
+  },
+  {
+    "date": "2025-07-17",
+    "aluminum": 2649.94,
+    "alumina": 372.3,
+    "bauxite": 42.66
+  },
+  {
+    "date": "2025-07-18",
+    "aluminum": 2650.99,
+    "alumina": 375.31,
+    "bauxite": 43.11
+  },
+  {
+    "date": "2025-07-19",
+    "aluminum": 2648.04,
+    "alumina": 375.16,
+    "bauxite": 42.95
+  },
+  {
+    "date": "2025-07-20",
+    "aluminum": 2628.68,
+    "alumina": 372.58,
+    "bauxite": 43.25
+  },
+  {
+    "date": "2025-07-21",
+    "aluminum": 2643.96,
+    "alumina": 372.02,
+    "bauxite": 43.07
+  },
+  {
+    "date": "2025-07-22",
+    "aluminum": 2630.75,
+    "alumina": 370.27,
+    "bauxite": 42.7
+  },
+  {
+    "date": "2025-07-23",
+    "aluminum": 2634.28,
+    "alumina": 374.2,
+    "bauxite": 43.09
+  },
+  {
+    "date": "2025-07-24",
+    "aluminum": 2634.08,
+    "alumina": 375.34,
+    "bauxite": 43.43
+  },
+  {
+    "date": "2025-07-25",
+    "aluminum": 2632.43,
+    "alumina": 375.35,
+    "bauxite": 43.46
+  },
+  {
+    "date": "2025-07-26",
+    "aluminum": 2616.38,
+    "alumina": 380.31,
+    "bauxite": 43.35
+  },
+  {
+    "date": "2025-07-27",
+    "aluminum": 2617.42,
+    "alumina": 381.85,
+    "bauxite": 43.02
+  },
+  {
+    "date": "2025-07-28",
+    "aluminum": 2629.62,
+    "alumina": 385.22,
+    "bauxite": 42.99
+  },
+  {
+    "date": "2025-07-29",
+    "aluminum": 2641.5,
+    "alumina": 389.0,
+    "bauxite": 43.41
+  },
+  {
+    "date": "2025-07-30",
+    "aluminum": 2631.1,
+    "alumina": 385.36,
+    "bauxite": 43.51
+  },
+  {
+    "date": "2025-07-31",
+    "aluminum": 2635.44,
+    "alumina": 381.84,
+    "bauxite": 43.6
+  },
+  {
+    "date": "2025-08-01",
+    "aluminum": 2651.57,
+    "alumina": 380.62,
+    "bauxite": 43.95
+  },
+  {
+    "date": "2025-08-02",
+    "aluminum": 2655.81,
+    "alumina": 378.41,
+    "bauxite": 43.72
+  },
+  {
+    "date": "2025-08-03",
+    "aluminum": 2675.87,
+    "alumina": 381.31,
+    "bauxite": 43.98
+  },
+  {
+    "date": "2025-08-04",
+    "aluminum": 2694.51,
+    "alumina": 381.28,
+    "bauxite": 44.29
+  },
+  {
+    "date": "2025-08-05",
+    "aluminum": 2683.96,
+    "alumina": 380.63,
+    "bauxite": 44.15
+  },
+  {
+    "date": "2025-08-06",
+    "aluminum": 2689.77,
+    "alumina": 385.46,
+    "bauxite": 44.06
+  },
+  {
+    "date": "2025-08-07",
+    "aluminum": 2696.85,
+    "alumina": 382.8,
+    "bauxite": 43.94
+  },
+  {
+    "date": "2025-08-08",
+    "aluminum": 2708.2,
+    "alumina": 384.58,
+    "bauxite": 43.66
+  },
+  {
+    "date": "2025-08-09",
+    "aluminum": 2719.13,
+    "alumina": 389.23,
+    "bauxite": 43.97
+  },
+  {
+    "date": "2025-08-10",
+    "aluminum": 2716.74,
+    "alumina": 386.43,
+    "bauxite": 43.87
+  },
+  {
+    "date": "2025-08-11",
+    "aluminum": 2703.24,
+    "alumina": 390.22,
+    "bauxite": 43.99
+  },
+  {
+    "date": "2025-08-12",
+    "aluminum": 2694.43,
+    "alumina": 392.96,
+    "bauxite": 44.29
+  },
+  {
+    "date": "2025-08-13",
+    "aluminum": 2699.39,
+    "alumina": 395.88,
+    "bauxite": 43.93
+  },
+  {
+    "date": "2025-08-14",
+    "aluminum": 2706.87,
+    "alumina": 390.92,
+    "bauxite": 43.98
+  },
+  {
+    "date": "2025-08-15",
+    "aluminum": 2713.03,
+    "alumina": 395.89,
+    "bauxite": 44.26
+  },
+  {
+    "date": "2025-08-16",
+    "aluminum": 2723.84,
+    "alumina": 398.97,
+    "bauxite": 43.94
+  },
+  {
+    "date": "2025-08-17",
+    "aluminum": 2717.9,
+    "alumina": 400.73,
+    "bauxite": 43.45
+  },
+  {
+    "date": "2025-08-18",
+    "aluminum": 2713.81,
+    "alumina": 398.27,
+    "bauxite": 43.22
+  },
+  {
+    "date": "2025-08-19",
+    "aluminum": 2711.77,
+    "alumina": 400.77,
+    "bauxite": 43.28
+  },
+  {
+    "date": "2025-08-20",
+    "aluminum": 2703.43,
+    "alumina": 398.14,
+    "bauxite": 43.7
+  },
+  {
+    "date": "2025-08-21",
+    "aluminum": 2691.0,
+    "alumina": 397.8,
+    "bauxite": 43.68
+  },
+  {
+    "date": "2025-08-22",
+    "aluminum": 2675.58,
+    "alumina": 395.49,
+    "bauxite": 43.65
+  },
+  {
+    "date": "2025-08-23",
+    "aluminum": 2689.4,
+    "alumina": 391.37,
+    "bauxite": 43.8
+  },
+  {
+    "date": "2025-08-24",
+    "aluminum": 2681.18,
+    "alumina": 390.12,
+    "bauxite": 43.78
+  },
+  {
+    "date": "2025-08-25",
+    "aluminum": 2693.05,
+    "alumina": 392.57,
+    "bauxite": 43.71
+  },
+  {
+    "date": "2025-08-26",
+    "aluminum": 2685.94,
+    "alumina": 387.79,
+    "bauxite": 43.29
+  },
+  {
+    "date": "2025-08-27",
+    "aluminum": 2682.81,
+    "alumina": 392.22,
+    "bauxite": 43.37
+  },
+  {
+    "date": "2025-08-28",
+    "aluminum": 2699.6,
+    "alumina": 389.42,
+    "bauxite": 43.13
+  },
+  {
+    "date": "2025-08-29",
+    "aluminum": 2699.4,
+    "alumina": 392.56,
+    "bauxite": 42.65
+  },
+  {
+    "date": "2025-08-30",
+    "aluminum": 2702.71,
+    "alumina": 390.52,
+    "bauxite": 43.01
+  },
+  {
+    "date": "2025-08-31",
+    "aluminum": 2712.17,
+    "alumina": 392.54,
+    "bauxite": 43.02
+  },
+  {
+    "date": "2025-09-01",
+    "aluminum": 2698.15,
+    "alumina": 390.24,
+    "bauxite": 42.87
+  },
+  {
+    "date": "2025-09-02",
+    "aluminum": 2680.0,
+    "alumina": 390.55,
+    "bauxite": 42.53
+  },
+  {
+    "date": "2025-09-03",
+    "aluminum": 2676.23,
+    "alumina": 391.36,
+    "bauxite": 42.57
+  },
+  {
+    "date": "2025-09-04",
+    "aluminum": 2688.47,
+    "alumina": 390.8,
+    "bauxite": 42.26
+  },
+  {
+    "date": "2025-09-05",
+    "aluminum": 2697.0,
+    "alumina": 393.33,
+    "bauxite": 42.61
+  },
+  {
+    "date": "2025-09-06",
+    "aluminum": 2709.29,
+    "alumina": 395.98,
+    "bauxite": 42.32
+  },
+  {
+    "date": "2025-09-07",
+    "aluminum": 2706.26,
+    "alumina": 391.54,
+    "bauxite": 41.9
+  },
+  {
+    "date": "2025-09-08",
+    "aluminum": 2692.72,
+    "alumina": 395.47,
+    "bauxite": 41.87
+  },
+  {
+    "date": "2025-09-09",
+    "aluminum": 2707.52,
+    "alumina": 391.19,
+    "bauxite": 41.68
+  },
+  {
+    "date": "2025-09-10",
+    "aluminum": 2717.91,
+    "alumina": 394.57,
+    "bauxite": 42.07
+  },
+  {
+    "date": "2025-09-11",
+    "aluminum": 2709.25,
+    "alumina": 394.07,
+    "bauxite": 42.3
+  },
+  {
+    "date": "2025-09-12",
+    "aluminum": 2721.76,
+    "alumina": 395.36,
+    "bauxite": 42.64
+  },
+  {
+    "date": "2025-09-13",
+    "aluminum": 2729.1,
+    "alumina": 393.09,
+    "bauxite": 43.04
+  },
+  {
+    "date": "2025-09-14",
+    "aluminum": 2729.71,
+    "alumina": 392.44,
+    "bauxite": 43.09
+  },
+  {
+    "date": "2025-09-15",
+    "aluminum": 2740.85,
+    "alumina": 389.26,
+    "bauxite": 43.12
+  },
+  {
+    "date": "2025-09-16",
+    "aluminum": 2740.61,
+    "alumina": 392.69,
+    "bauxite": 43.52
+  },
+  {
+    "date": "2025-09-17",
+    "aluminum": 2746.85,
+    "alumina": 391.67,
+    "bauxite": 43.55
+  },
+  {
+    "date": "2025-09-18",
+    "aluminum": 2729.3,
+    "alumina": 390.6,
+    "bauxite": 44.04
+  },
+  {
+    "date": "2025-09-19",
+    "aluminum": 2721.8,
+    "alumina": 395.69,
+    "bauxite": 43.79
+  },
+  {
+    "date": "2025-09-20",
+    "aluminum": 2703.23,
+    "alumina": 395.31,
+    "bauxite": 43.36
+  },
+  {
+    "date": "2025-09-21",
+    "aluminum": 2697.91,
+    "alumina": 394.43,
+    "bauxite": 43.32
+  },
+  {
+    "date": "2025-09-22",
+    "aluminum": 2696.59,
+    "alumina": 392.28,
+    "bauxite": 43.26
+  },
+  {
+    "date": "2025-09-23",
+    "aluminum": 2677.94,
+    "alumina": 395.46,
+    "bauxite": 43.57
+  },
+  {
+    "date": "2025-09-24",
+    "aluminum": 2696.83,
+    "alumina": 395.74,
+    "bauxite": 44.04
+  },
+  {
+    "date": "2025-09-25",
+    "aluminum": 2684.71,
+    "alumina": 398.64,
+    "bauxite": 43.81
+  },
+  {
+    "date": "2025-09-26",
+    "aluminum": 2667.25,
+    "alumina": 394.23,
+    "bauxite": 43.41
+  },
+  {
+    "date": "2025-09-27",
+    "aluminum": 2687.22,
+    "alumina": 395.62,
+    "bauxite": 42.94
+  },
+  {
+    "date": "2025-09-28",
+    "aluminum": 2670.89,
+    "alumina": 394.34,
+    "bauxite": 43.33
+  },
+  {
+    "date": "2025-09-29",
+    "aluminum": 2675.74,
+    "alumina": 393.91,
+    "bauxite": 43.76
+  },
+  {
+    "date": "2025-09-30",
+    "aluminum": 2675.77,
+    "alumina": 396.96,
+    "bauxite": 43.79
+  },
+  {
+    "date": "2025-10-01",
+    "aluminum": 2670.73,
+    "alumina": 395.77,
+    "bauxite": 43.51
+  },
+  {
+    "date": "2025-10-02",
+    "aluminum": 2653.12,
+    "alumina": 394.75,
+    "bauxite": 43.67
+  },
+  {
+    "date": "2025-10-03",
+    "aluminum": 2662.38,
+    "alumina": 391.3,
+    "bauxite": 44.05
+  },
+  {
+    "date": "2025-10-04",
+    "aluminum": 2653.78,
+    "alumina": 387.58,
+    "bauxite": 44.34
+  },
+  {
+    "date": "2025-10-05",
+    "aluminum": 2670.25,
+    "alumina": 383.47,
+    "bauxite": 44.31
+  },
+  {
+    "date": "2025-10-06",
+    "aluminum": 2667.97,
+    "alumina": 385.03,
+    "bauxite": 44.25
+  },
+  {
+    "date": "2025-10-07",
+    "aluminum": 2674.6,
+    "alumina": 389.4,
+    "bauxite": 44.25
+  },
+  {
+    "date": "2025-10-08",
+    "aluminum": 2686.55,
+    "alumina": 391.99,
+    "bauxite": 43.81
+  },
+  {
+    "date": "2025-10-09",
+    "aluminum": 2681.83,
+    "alumina": 394.24,
+    "bauxite": 43.99
+  },
+  {
+    "date": "2025-10-10",
+    "aluminum": 2682.84,
+    "alumina": 391.07,
+    "bauxite": 44.18
+  },
+  {
+    "date": "2025-10-11",
+    "aluminum": 2689.75,
+    "alumina": 395.53,
+    "bauxite": 44.11
+  },
+  {
+    "date": "2025-10-12",
+    "aluminum": 2702.73,
+    "alumina": 391.92,
+    "bauxite": 44.26
+  },
+  {
+    "date": "2025-10-13",
+    "aluminum": 2695.84,
+    "alumina": 387.53,
+    "bauxite": 44.68
+  },
+  {
+    "date": "2025-10-14",
+    "aluminum": 2676.81,
+    "alumina": 384.76,
+    "bauxite": 44.43
+  },
+  {
+    "date": "2025-10-15",
+    "aluminum": 2688.47,
+    "alumina": 385.99,
+    "bauxite": 44.5
+  },
+  {
+    "date": "2025-10-16",
+    "aluminum": 2675.83,
+    "alumina": 381.67,
+    "bauxite": 44.34
+  },
+  {
+    "date": "2025-10-17",
+    "aluminum": 2662.12,
+    "alumina": 378.09,
+    "bauxite": 44.76
+  },
+  {
+    "date": "2025-10-18",
+    "aluminum": 2663.08,
+    "alumina": 381.06,
+    "bauxite": 44.8
+  },
+  {
+    "date": "2025-10-19",
+    "aluminum": 2653.73,
+    "alumina": 382.24,
+    "bauxite": 45.13
+  },
+  {
+    "date": "2025-10-20",
+    "aluminum": 2671.85,
+    "alumina": 380.59,
+    "bauxite": 44.78
+  },
+  {
+    "date": "2025-10-21",
+    "aluminum": 2690.78,
+    "alumina": 384.15,
+    "bauxite": 44.83
+  },
+  {
+    "date": "2025-10-22",
+    "aluminum": 2705.78,
+    "alumina": 385.01,
+    "bauxite": 44.85
+  },
+  {
+    "date": "2025-10-23",
+    "aluminum": 2698.08,
+    "alumina": 389.16,
+    "bauxite": 44.41
+  },
+  {
+    "date": "2025-10-24",
+    "aluminum": 2680.95,
+    "alumina": 393.74,
+    "bauxite": 44.05
+  },
+  {
+    "date": "2025-10-25",
+    "aluminum": 2680.14,
+    "alumina": 390.38,
+    "bauxite": 44.17
+  },
+  {
+    "date": "2025-10-26",
+    "aluminum": 2685.25,
+    "alumina": 393.85,
+    "bauxite": 43.88
+  },
+  {
+    "date": "2025-10-27",
+    "aluminum": 2680.47,
+    "alumina": 392.03,
+    "bauxite": 43.89
+  },
+  {
+    "date": "2025-10-28",
+    "aluminum": 2692.92,
+    "alumina": 390.01,
+    "bauxite": 43.57
+  },
+  {
+    "date": "2025-10-29",
+    "aluminum": 2692.16,
+    "alumina": 388.12,
+    "bauxite": 43.3
+  },
+  {
+    "date": "2025-10-30",
+    "aluminum": 2685.3,
+    "alumina": 391.08,
+    "bauxite": 43.59
+  },
+  {
+    "date": "2025-10-31",
+    "aluminum": 2673.81,
+    "alumina": 395.96,
+    "bauxite": 43.11
+  },
+  {
+    "date": "2025-11-01",
+    "aluminum": 2680.39,
+    "alumina": 396.79,
+    "bauxite": 42.72
+  },
+  {
+    "date": "2025-11-02",
+    "aluminum": 2701.05,
+    "alumina": 396.08,
+    "bauxite": 43.16
+  },
+  {
+    "date": "2025-11-03",
+    "aluminum": 2718.88,
+    "alumina": 393.09,
+    "bauxite": 42.72
+  },
+  {
+    "date": "2025-11-04",
+    "aluminum": 2705.17,
+    "alumina": 388.88,
+    "bauxite": 43.03
+  },
+  {
+    "date": "2025-11-05",
+    "aluminum": 2698.35,
+    "alumina": 390.54,
+    "bauxite": 42.66
+  },
+  {
+    "date": "2025-11-06",
+    "aluminum": 2693.9,
+    "alumina": 388.2,
+    "bauxite": 42.51
+  },
+  {
+    "date": "2025-11-07",
+    "aluminum": 2680.0,
+    "alumina": 386.42,
+    "bauxite": 42.25
+  },
+  {
+    "date": "2025-11-08",
+    "aluminum": 2689.64,
+    "alumina": 388.32,
+    "bauxite": 42.56
+  },
+  {
+    "date": "2025-11-09",
+    "aluminum": 2695.1,
+    "alumina": 386.46,
+    "bauxite": 42.75
+  },
+  {
+    "date": "2025-11-10",
+    "aluminum": 2679.52,
+    "alumina": 382.6,
+    "bauxite": 42.71
+  },
+  {
+    "date": "2025-11-11",
+    "aluminum": 2671.81,
+    "alumina": 380.03,
+    "bauxite": 42.87
+  },
+  {
+    "date": "2025-11-12",
+    "aluminum": 2654.78,
+    "alumina": 380.21,
+    "bauxite": 42.82
+  },
+  {
+    "date": "2025-11-13",
+    "aluminum": 2669.31,
+    "alumina": 382.7,
+    "bauxite": 43.24
+  },
+  {
+    "date": "2025-11-14",
+    "aluminum": 2665.05,
+    "alumina": 381.71,
+    "bauxite": 43.27
+  },
+  {
+    "date": "2025-11-15",
+    "aluminum": 2673.67,
+    "alumina": 385.03,
+    "bauxite": 43.1
+  },
+  {
+    "date": "2025-11-16",
+    "aluminum": 2682.47,
+    "alumina": 381.4,
+    "bauxite": 43.29
+  },
+  {
+    "date": "2025-11-17",
+    "aluminum": 2691.53,
+    "alumina": 386.23,
+    "bauxite": 42.93
+  },
+  {
+    "date": "2025-11-18",
+    "aluminum": 2706.0,
+    "alumina": 384.26,
+    "bauxite": 43.27
+  },
+  {
+    "date": "2025-11-19",
+    "aluminum": 2718.65,
+    "alumina": 388.05,
+    "bauxite": 43.28
+  },
+  {
+    "date": "2025-11-20",
+    "aluminum": 2729.89,
+    "alumina": 392.06,
+    "bauxite": 43.57
+  },
+  {
+    "date": "2025-11-21",
+    "aluminum": 2724.77,
+    "alumina": 391.96,
+    "bauxite": 43.93
+  },
+  {
+    "date": "2025-11-22",
+    "aluminum": 2714.37,
+    "alumina": 387.72,
+    "bauxite": 43.46
+  },
+  {
+    "date": "2025-11-23",
+    "aluminum": 2732.12,
+    "alumina": 386.34,
+    "bauxite": 43.22
+  },
+  {
+    "date": "2025-11-24",
+    "aluminum": 2744.34,
+    "alumina": 383.9,
+    "bauxite": 43.43
+  },
+  {
+    "date": "2025-11-25",
+    "aluminum": 2750.59,
+    "alumina": 381.32,
+    "bauxite": 43.6
+  },
+  {
+    "date": "2025-11-26",
+    "aluminum": 2754.39,
+    "alumina": 379.14,
+    "bauxite": 43.31
+  },
+  {
+    "date": "2025-11-27",
+    "aluminum": 2743.72,
+    "alumina": 384.2,
+    "bauxite": 43.73
+  },
+  {
+    "date": "2025-11-28",
+    "aluminum": 2737.04,
+    "alumina": 389.21,
+    "bauxite": 43.87
+  },
+  {
+    "date": "2025-11-29",
+    "aluminum": 2756.17,
+    "alumina": 393.99,
+    "bauxite": 43.76
+  },
+  {
+    "date": "2025-11-30",
+    "aluminum": 2766.57,
+    "alumina": 390.23,
+    "bauxite": 43.96
+  },
+  {
+    "date": "2025-12-01",
+    "aluminum": 2746.76,
+    "alumina": 391.97,
+    "bauxite": 43.55
+  },
+  {
+    "date": "2025-12-02",
+    "aluminum": 2755.79,
+    "alumina": 388.31,
+    "bauxite": 43.9
+  },
+  {
+    "date": "2025-12-03",
+    "aluminum": 2745.36,
+    "alumina": 392.24,
+    "bauxite": 44.12
+  },
+  {
+    "date": "2025-12-04",
+    "aluminum": 2759.3,
+    "alumina": 391.7,
+    "bauxite": 44.54
+  },
+  {
+    "date": "2025-12-05",
+    "aluminum": 2744.96,
+    "alumina": 393.85,
+    "bauxite": 44.57
+  },
+  {
+    "date": "2025-12-06",
+    "aluminum": 2725.25,
+    "alumina": 392.27,
+    "bauxite": 44.36
+  },
+  {
+    "date": "2025-12-07",
+    "aluminum": 2707.58,
+    "alumina": 395.88,
+    "bauxite": 44.47
+  },
+  {
+    "date": "2025-12-08",
+    "aluminum": 2718.8,
+    "alumina": 393.15,
+    "bauxite": 44.83
+  },
+  {
+    "date": "2025-12-09",
+    "aluminum": 2732.96,
+    "alumina": 394.03,
+    "bauxite": 45.03
+  },
+  {
+    "date": "2025-12-10",
+    "aluminum": 2738.19,
+    "alumina": 397.11,
+    "bauxite": 45.01
+  },
+  {
+    "date": "2025-12-11",
+    "aluminum": 2743.31,
+    "alumina": 399.81,
+    "bauxite": 45.4
+  },
+  {
+    "date": "2025-12-12",
+    "aluminum": 2730.63,
+    "alumina": 404.89,
+    "bauxite": 44.9
+  },
+  {
+    "date": "2025-12-13",
+    "aluminum": 2717.29,
+    "alumina": 406.58,
+    "bauxite": 44.56
+  },
+  {
+    "date": "2025-12-14",
+    "aluminum": 2719.01,
+    "alumina": 403.89,
+    "bauxite": 44.32
+  },
+  {
+    "date": "2025-12-15",
+    "aluminum": 2721.23,
+    "alumina": 408.56,
+    "bauxite": 44.2
+  },
+  {
+    "date": "2025-12-16",
+    "aluminum": 2717.75,
+    "alumina": 407.75,
+    "bauxite": 44.07
+  },
+  {
+    "date": "2025-12-17",
+    "aluminum": 2698.11,
+    "alumina": 406.33,
+    "bauxite": 44.28
+  },
+  {
+    "date": "2025-12-18",
+    "aluminum": 2696.84,
+    "alumina": 404.97,
+    "bauxite": 44.43
+  },
+  {
+    "date": "2025-12-19",
+    "aluminum": 2679.16,
+    "alumina": 405.28,
+    "bauxite": 44.22
+  },
+  {
+    "date": "2025-12-20",
+    "aluminum": 2671.13,
+    "alumina": 409.2,
+    "bauxite": 44.68
+  },
+  {
+    "date": "2025-12-21",
+    "aluminum": 2661.17,
+    "alumina": 405.18,
+    "bauxite": 44.65
+  },
+  {
+    "date": "2025-12-22",
+    "aluminum": 2680.71,
+    "alumina": 402.36,
+    "bauxite": 44.42
+  },
+  {
+    "date": "2025-12-23",
+    "aluminum": 2676.38,
+    "alumina": 406.11,
+    "bauxite": 44.55
+  },
+  {
+    "date": "2025-12-24",
+    "aluminum": 2686.05,
+    "alumina": 408.15,
+    "bauxite": 44.99
+  },
+  {
+    "date": "2025-12-25",
+    "aluminum": 2667.65,
+    "alumina": 405.61,
+    "bauxite": 45.26
+  },
+  {
+    "date": "2025-12-26",
+    "aluminum": 2665.75,
+    "alumina": 402.15,
+    "bauxite": 45.64
+  },
+  {
+    "date": "2025-12-27",
+    "aluminum": 2680.46,
+    "alumina": 405.13,
+    "bauxite": 45.82
+  },
+  {
+    "date": "2025-12-28",
+    "aluminum": 2663.19,
+    "alumina": 406.65,
+    "bauxite": 46.29
+  },
+  {
+    "date": "2025-12-29",
+    "aluminum": 2670.02,
+    "alumina": 406.2,
+    "bauxite": 46.33
+  },
+  {
+    "date": "2025-12-30",
+    "aluminum": 2669.74,
+    "alumina": 405.22,
+    "bauxite": 46.27
+  },
+  {
+    "date": "2025-12-31",
+    "aluminum": 2666.33,
+    "alumina": 406.52,
+    "bauxite": 46.42
+  },
+  {
+    "date": "2026-01-01",
+    "aluminum": 2670.2,
+    "alumina": 403.69,
+    "bauxite": 46.38
+  },
+  {
+    "date": "2026-01-02",
+    "aluminum": 2685.72,
+    "alumina": 406.58,
+    "bauxite": 46.51
+  },
+  {
+    "date": "2026-01-03",
+    "aluminum": 2677.03,
+    "alumina": 405.43,
+    "bauxite": 46.82
+  },
+  {
+    "date": "2026-01-04",
+    "aluminum": 2663.79,
+    "alumina": 400.43,
+    "bauxite": 46.74
+  },
+  {
+    "date": "2026-01-05",
+    "aluminum": 2648.19,
+    "alumina": 395.57,
+    "bauxite": 46.24
+  },
+  {
+    "date": "2026-01-06",
+    "aluminum": 2662.62,
+    "alumina": 400.53,
+    "bauxite": 46.15
+  },
+  {
+    "date": "2026-01-07",
+    "aluminum": 2678.09,
+    "alumina": 400.45,
+    "bauxite": 46.13
+  },
+  {
+    "date": "2026-01-08",
+    "aluminum": 2696.75,
+    "alumina": 397.91,
+    "bauxite": 46.35
+  },
+  {
+    "date": "2026-01-09",
+    "aluminum": 2699.89,
+    "alumina": 398.25,
+    "bauxite": 45.95
+  },
+  {
+    "date": "2026-01-10",
+    "aluminum": 2687.19,
+    "alumina": 400.67,
+    "bauxite": 45.94
+  },
+  {
+    "date": "2026-01-11",
+    "aluminum": 2682.6,
+    "alumina": 402.0,
+    "bauxite": 46.18
+  },
+  {
+    "date": "2026-01-12",
+    "aluminum": 2664.19,
+    "alumina": 407.13,
+    "bauxite": 46.64
+  },
+  {
+    "date": "2026-01-13",
+    "aluminum": 2669.28,
+    "alumina": 407.34,
+    "bauxite": 46.26
+  },
+  {
+    "date": "2026-01-14",
+    "aluminum": 2677.26,
+    "alumina": 404.78,
+    "bauxite": 46.41
+  },
+  {
+    "date": "2026-01-15",
+    "aluminum": 2692.65,
+    "alumina": 408.88,
+    "bauxite": 46.54
+  },
+  {
+    "date": "2026-01-16",
+    "aluminum": 2674.45,
+    "alumina": 410.87,
+    "bauxite": 46.44
+  },
+  {
+    "date": "2026-01-17",
+    "aluminum": 2669.39,
+    "alumina": 413.22,
+    "bauxite": 46.7
+  },
+  {
+    "date": "2026-01-18",
+    "aluminum": 2664.06,
+    "alumina": 410.44,
+    "bauxite": 46.57
+  },
+  {
+    "date": "2026-01-19",
+    "aluminum": 2674.61,
+    "alumina": 413.31,
+    "bauxite": 46.22
+  },
+  {
+    "date": "2026-01-20",
+    "aluminum": 2659.64,
+    "alumina": 413.08,
+    "bauxite": 46.35
+  },
+  {
+    "date": "2026-01-21",
+    "aluminum": 2640.39,
+    "alumina": 416.34,
+    "bauxite": 46.58
+  },
+  {
+    "date": "2026-01-22",
+    "aluminum": 2639.85,
+    "alumina": 421.06,
+    "bauxite": 46.9
+  },
+  {
+    "date": "2026-01-23",
+    "aluminum": 2645.75,
+    "alumina": 424.4,
+    "bauxite": 47.37
+  },
+  {
+    "date": "2026-01-24",
+    "aluminum": 2633.22,
+    "alumina": 419.78,
+    "bauxite": 46.88
+  },
+  {
+    "date": "2026-01-25",
+    "aluminum": 2650.63,
+    "alumina": 424.7,
+    "bauxite": 46.66
+  },
+  {
+    "date": "2026-01-26",
+    "aluminum": 2654.44,
+    "alumina": 426.88,
+    "bauxite": 46.71
+  },
+  {
+    "date": "2026-01-27",
+    "aluminum": 2639.1,
+    "alumina": 422.3,
+    "bauxite": 46.75
+  },
+  {
+    "date": "2026-01-28",
+    "aluminum": 2640.38,
+    "alumina": 427.21,
+    "bauxite": 46.65
+  },
+  {
+    "date": "2026-01-29",
+    "aluminum": 2641.2,
+    "alumina": 427.88,
+    "bauxite": 46.95
+  },
+  {
+    "date": "2026-01-30",
+    "aluminum": 2647.99,
+    "alumina": 426.54,
+    "bauxite": 46.7
+  },
+  {
+    "date": "2026-01-31",
+    "aluminum": 2656.17,
+    "alumina": 425.88,
+    "bauxite": 46.84
+  },
+  {
+    "date": "2026-02-01",
+    "aluminum": 2661.69,
+    "alumina": 423.03,
+    "bauxite": 47.11
+  },
+  {
+    "date": "2026-02-02",
+    "aluminum": 2666.98,
+    "alumina": 418.32,
+    "bauxite": 46.77
+  },
+  {
+    "date": "2026-02-03",
+    "aluminum": 2670.81,
+    "alumina": 419.0,
+    "bauxite": 46.88
+  },
+  {
+    "date": "2026-02-04",
+    "aluminum": 2658.68,
+    "alumina": 416.63,
+    "bauxite": 46.44
+  },
+  {
+    "date": "2026-02-05",
+    "aluminum": 2670.07,
+    "alumina": 421.82,
+    "bauxite": 46.43
+  },
+  {
+    "date": "2026-02-06",
+    "aluminum": 2689.26,
+    "alumina": 426.19,
+    "bauxite": 46.8
+  },
+  {
+    "date": "2026-02-07",
+    "aluminum": 2679.17,
+    "alumina": 429.66,
+    "bauxite": 47.11
+  },
+  {
+    "date": "2026-02-08",
+    "aluminum": 2670.95,
+    "alumina": 434.02,
+    "bauxite": 47.6
+  },
+  {
+    "date": "2026-02-09",
+    "aluminum": 2691.53,
+    "alumina": 430.63,
+    "bauxite": 47.49
+  },
+  {
+    "date": "2026-02-10",
+    "aluminum": 2693.47,
+    "alumina": 434.3,
+    "bauxite": 47.96
+  },
+  {
+    "date": "2026-02-11",
+    "aluminum": 2701.67,
+    "alumina": 433.76,
+    "bauxite": 47.79
+  },
+  {
+    "date": "2026-02-12",
+    "aluminum": 2722.16,
+    "alumina": 434.62,
+    "bauxite": 48.13
+  },
+  {
+    "date": "2026-02-13",
+    "aluminum": 2704.52,
+    "alumina": 432.14,
+    "bauxite": 48.43
+  },
+  {
+    "date": "2026-02-14",
+    "aluminum": 2706.95,
+    "alumina": 427.15,
+    "bauxite": 48.1
+  },
+  {
+    "date": "2026-02-15",
+    "aluminum": 2707.59,
+    "alumina": 431.48,
+    "bauxite": 48.04
+  },
+  {
+    "date": "2026-02-16",
+    "aluminum": 2717.91,
+    "alumina": 429.31,
+    "bauxite": 47.99
+  },
+  {
+    "date": "2026-02-17",
+    "aluminum": 2731.57,
+    "alumina": 424.64,
+    "bauxite": 47.56
+  },
+  {
+    "date": "2026-02-18",
+    "aluminum": 2721.99,
+    "alumina": 422.62,
+    "bauxite": 47.2
+  },
+  {
+    "date": "2026-02-19",
+    "aluminum": 2725.09,
+    "alumina": 422.82,
+    "bauxite": 47.41
+  },
+  {
+    "date": "2026-02-20",
+    "aluminum": 2736.86,
+    "alumina": 423.69,
+    "bauxite": 47.74
+  },
+  {
+    "date": "2026-02-21",
+    "aluminum": 2728.49,
+    "alumina": 428.76,
+    "bauxite": 47.45
+  },
+  {
+    "date": "2026-02-22",
+    "aluminum": 2742.67,
+    "alumina": 430.67,
+    "bauxite": 47.06
+  },
+  {
+    "date": "2026-02-23",
+    "aluminum": 2728.01,
+    "alumina": 431.47,
+    "bauxite": 46.79
+  },
+  {
+    "date": "2026-02-24",
+    "aluminum": 2747.98,
+    "alumina": 435.4,
+    "bauxite": 46.87
+  },
+  {
+    "date": "2026-02-25",
+    "aluminum": 2754.77,
+    "alumina": 430.76,
+    "bauxite": 46.85
+  },
+  {
+    "date": "2026-02-26",
+    "aluminum": 2758.47,
+    "alumina": 429.02,
+    "bauxite": 46.72
+  },
+  {
+    "date": "2026-02-27",
+    "aluminum": 2769.54,
+    "alumina": 427.35,
+    "bauxite": 46.72
+  },
+  {
+    "date": "2026-02-28",
+    "aluminum": 2770.78,
+    "alumina": 425.03,
+    "bauxite": 46.96
+  },
+  {
+    "date": "2026-03-01",
+    "aluminum": 2753.84,
+    "alumina": 424.85,
+    "bauxite": 46.56
+  },
+  {
+    "date": "2026-03-02",
+    "aluminum": 2768.4,
+    "alumina": 424.15,
+    "bauxite": 47.03
+  },
+  {
+    "date": "2026-03-03",
+    "aluminum": 2773.25,
+    "alumina": 429.0,
+    "bauxite": 46.94
+  }
+]

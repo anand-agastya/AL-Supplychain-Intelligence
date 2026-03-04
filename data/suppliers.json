@@ -1,0 +1,242 @@
+[
+  {
+    "id": "sup-005",
+    "name": "EGA Al Taweelah Smelter",
+    "region": "Middle East",
+    "riskScore": 12,
+    "type": "Smelter",
+    "coordinates": [
+      24.8198,
+      54.6655
+    ],
+    "status": "Normal"
+  },
+  {
+    "id": "sup-006",
+    "name": "Alcoa Pinjarra",
+    "region": "Oceania",
+    "riskScore": 65,
+    "type": "Refinery",
+    "coordinates": [
+      -32.6300,
+      115.8600
+    ],
+    "status": "At Risk"
+  },
+  {
+    "id": "sup-007",
+    "name": "Rio Tinto Amrun",
+    "region": "Oceania",
+    "riskScore": 18,
+    "type": "Mine",
+    "coordinates": [
+      -12.9300,
+      141.6300
+    ],
+    "status": "Normal"
+  },
+  {
+    "id": "sup-008",
+    "name": "Norsk Hydro Sunndal",
+    "region": "Europe",
+    "riskScore": 22,
+    "type": "Smelter",
+    "coordinates": [
+      62.6750,
+      8.5600
+    ],
+    "status": "Normal"
+  },
+  {
+    "id": "sup-009",
+    "name": "Rusal Krasnoyarsk",
+    "region": "Eurasia",
+    "riskScore": 96,
+    "type": "Smelter",
+    "coordinates": [
+      56.0153,
+      92.8932
+    ],
+    "status": "Disrupted"
+  },
+  {
+    "id": "sup-010",
+    "name": "Vedanta Jharsuguda",
+    "region": "Asia",
+    "riskScore": 72,
+    "type": "Smelter",
+    "coordinates": [
+      21.8601,
+      84.0321
+    ],
+    "status": "At Risk"
+  },
+  {
+    "id": "sup-011",
+    "name": "Hindalco Renukoot",
+    "region": "Asia",
+    "riskScore": 30,
+    "type": "Refinery",
+    "coordinates": [
+      24.2300,
+      83.0300
+    ],
+    "status": "Normal"
+  },
+  {
+    "id": "sup-012",
+    "name": "Century Aluminum Mt. Holly",
+    "region": "North America",
+    "riskScore": 48,
+    "type": "Smelter",
+    "coordinates": [
+      33.0076,
+      -80.0125
+    ],
+    "status": "At Risk"
+  },
+  {
+    "id": "sup-013",
+    "name": "Aluar Puerto Madryn",
+    "region": "South America",
+    "riskScore": 20,
+    "type": "Smelter",
+    "coordinates": [
+      -42.7692,
+      -65.0385
+    ],
+    "status": "Normal"
+  },
+  {
+    "id": "sup-014",
+    "name": "QAL Gladstone",
+    "region": "Oceania",
+    "riskScore": 35,
+    "type": "Refinery",
+    "coordinates": [
+      -23.8427,
+      151.2500
+    ],
+    "status": "Normal"
+  },
+  {
+    "id": "sup-015",
+    "name": "Ma'aden Ras Al Khair",
+    "region": "Middle East",
+    "riskScore": 15,
+    "type": "Smelter",
+    "coordinates": [
+      27.5450,
+      49.2080
+    ],
+    "status": "Normal"
+  },
+  {
+    "id": "sup-016",
+    "name": "Chalco Shanxi",
+    "region": "Asia",
+    "riskScore": 88,
+    "type": "Refinery",
+    "coordinates": [
+      35.5300,
+      111.7000
+    ],
+    "status": "Disrupted"
+  },
+  {
+    "id": "sup-017",
+    "name": "South32 Mozal",
+    "region": "Africa",
+    "riskScore": 82,
+    "type": "Smelter",
+    "coordinates": [
+      -25.9153,
+      32.4042
+    ],
+    "status": "Disrupted"
+  },
+  {
+    "id": "sup-018",
+    "name": "Albras Barcarena",
+    "region": "South America",
+    "riskScore": 76,
+    "type": "Smelter",
+    "coordinates": [
+      -1.5000,
+      -48.7400
+    ],
+    "status": "Disrupted"
+  },
+  {
+    "id": "sup-019",
+    "name": "Trimet Essen",
+    "region": "Europe",
+    "riskScore": 28,
+    "type": "Smelter",
+    "coordinates": [
+      51.4900,
+      6.9700
+    ],
+    "status": "Normal"
+  },
+  {
+    "id": "sup-020",
+    "name": "Bosai Minerals Guyana",
+    "region": "South America",
+    "riskScore": 38,
+    "type": "Mine",
+    "coordinates": [
+      6.0000,
+      -58.3000
+    ],
+    "status": "Normal"
+  },
+  {
+    "id": "sup-021",
+    "name": "GAC Guinea Alumina Corp",
+    "region": "Africa",
+    "riskScore": 94,
+    "type": "Mine",
+    "coordinates": [
+      10.9500,
+      -14.3000
+    ],
+    "status": "Disrupted"
+  },
+  {
+    "id": "sup-022",
+    "name": "Rio Tinto Kitimat",
+    "region": "North America",
+    "riskScore": 62,
+    "type": "Smelter",
+    "coordinates": [
+      54.0000,
+      -128.6900
+    ],
+    "status": "At Risk"
+  },
+  {
+    "id": "sup-023",
+    "name": "Aluminium Dunkerque",
+    "region": "Europe",
+    "riskScore": 10,
+    "type": "Smelter",
+    "coordinates": [
+      51.0100,
+      2.1400
+    ],
+    "status": "Normal"
+  },
+  {
+    "id": "sup-024",
+    "name": "PT Inalum Asahan",
+    "region": "Asia",
+    "riskScore": 42,
+    "type": "Smelter",
+    "coordinates": [
+      2.5800,
+      99.4000
+    ],
+    "status": "At Risk"
+  }
+]

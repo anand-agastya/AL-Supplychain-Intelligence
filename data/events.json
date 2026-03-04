@@ -1,0 +1,305 @@
+[
+  {
+    "id": "evt-004",
+    "title": "Wildcat Strike at Sangarédi",
+    "description": "Unplanned labor strike at primary bauxite extraction facility halts daily operations. Rail transport suspended.",
+    "date": "2026-03-04",
+    "severity": "Critical",
+    "category": "Disruption",
+    "coordinates": [
+      10.95,
+      -14.38
+    ],
+    "affectedSuppliers": [
+      "sup-001",
+      "sup-021"
+    ]
+  },
+  {
+    "id": "evt-005",
+    "title": "Sichuan Hydro Power Rationing",
+    "description": "Local government announces Stage 3 power rationing due to severe drought. Smelters instructed to curtail 20% capacity.",
+    "date": "2026-03-02",
+    "severity": "Critical",
+    "category": "Regulatory",
+    "coordinates": [
+      30.55,
+      104.1
+    ],
+    "affectedSuppliers": [
+      "sup-003"
+    ]
+  },
+  {
+    "id": "evt-006",
+    "title": "Sanctions Impact Routing",
+    "description": "New international financial sanctions block primary payment routing for Russian aluminum exports, freezing shipments.",
+    "date": "2026-02-28",
+    "severity": "Critical",
+    "category": "Geopolitical",
+    "coordinates": [
+      56.0153,
+      92.8932
+    ],
+    "affectedSuppliers": [
+      "sup-009"
+    ]
+  },
+  {
+    "id": "evt-007",
+    "title": "Cyclone Warning: Maputo",
+    "description": "Category 4 Cyclone approaching. Mozal aluminum smelter activating emergency controlled shutdown procedures.",
+    "date": "2026-02-26",
+    "severity": "Critical",
+    "category": "Weather",
+    "coordinates": [
+      -25.9153,
+      32.4042
+    ],
+    "affectedSuppliers": [
+      "sup-017"
+    ]
+  },
+  {
+    "id": "evt-008",
+    "title": "Tailings Dam Inspection",
+    "description": "Regulators temporarily suspend Albras operations pending an emergency inspection of a suspected tailings dam irregularity.",
+    "date": "2026-02-25",
+    "severity": "Warning",
+    "category": "Environmental",
+    "coordinates": [
+      -1.5,
+      -48.74
+    ],
+    "affectedSuppliers": [
+      "sup-018",
+      "sup-004"
+    ]
+  },
+  {
+    "id": "evt-009",
+    "title": "National Rail Strike",
+    "description": "Canadian rail strike threatens to disrupt ingot transport from Kitimat smelter to major US automotive manufacturing hubs.",
+    "date": "2026-02-23",
+    "severity": "Warning",
+    "category": "Logistics",
+    "coordinates": [
+      54.0,
+      -128.69
+    ],
+    "affectedSuppliers": [
+      "sup-022"
+    ]
+  },
+  {
+    "id": "evt-010",
+    "title": "Shanxi Environmental Audit",
+    "description": "Surprise provincial environmental audit forces temporary 15% capacity reduction at major alumina refineries.",
+    "date": "2026-02-20",
+    "severity": "Warning",
+    "category": "Regulatory",
+    "coordinates": [
+      35.53,
+      111.7
+    ],
+    "affectedSuppliers": [
+      "sup-016"
+    ]
+  },
+  {
+    "id": "evt-011",
+    "title": "Grid Failure: Mt. Holly",
+    "description": "A localized grid failure caused a 4-hour total blackout. Assessing potline damage and recovery timelines.",
+    "date": "2026-02-18",
+    "severity": "Critical",
+    "category": "Infrastructure",
+    "coordinates": [
+      33.0076,
+      -80.0125
+    ],
+    "affectedSuppliers": [
+      "sup-012"
+    ]
+  },
+  {
+    "id": "evt-012",
+    "title": "Pinjarra Maintenance Extended",
+    "description": "Unplanned secondary maintenance required on calciner 3. Outage extended by an additional 14 days.",
+    "date": "2026-02-15",
+    "severity": "Warning",
+    "category": "Operational",
+    "coordinates": [
+      -32.63,
+      115.86
+    ],
+    "affectedSuppliers": [
+      "sup-006"
+    ]
+  },
+  {
+    "id": "evt-013",
+    "title": "Coal Supply Bottleneck",
+    "description": "Domestic coal shortages threaten captive power plants. Spot energy prices spike, squeezing margins for local smelters.",
+    "date": "2026-02-12",
+    "severity": "Warning",
+    "category": "Supply Chain",
+    "coordinates": [
+      21.8601,
+      84.0321
+    ],
+    "affectedSuppliers": [
+      "sup-010"
+    ]
+  },
+  {
+    "id": "evt-014",
+    "title": "Earthquake: Sumatra Coast",
+    "description": "Magnitude 6.2 earthquake reported. PT Inalum conducting structural integrity checks. Minor operational delays expected.",
+    "date": "2026-02-10",
+    "severity": "Warning",
+    "category": "Weather",
+    "coordinates": [
+      2.58,
+      99.4
+    ],
+    "affectedSuppliers": [
+      "sup-024"
+    ]
+  },
+  {
+    "id": "evt-015",
+    "title": "EGA Capacity Expansion",
+    "description": "Al Taweelah successfully brings new high-efficiency potline online ahead of schedule, slightly easing regional billet tightness.",
+    "date": "2026-02-08",
+    "severity": "Info",
+    "category": "Operational",
+    "coordinates": [
+      24.8198,
+      54.6655
+    ],
+    "affectedSuppliers": [
+      "sup-005"
+    ]
+  },
+  {
+    "id": "evt-016",
+    "title": "Port Congestion: Queensland",
+    "description": "Heavy marine traffic and bulk loader maintenance causing 4-day anchorage delays for vessels loading bauxite.",
+    "date": "2026-02-05",
+    "severity": "Warning",
+    "category": "Logistics",
+    "coordinates": [
+      -12.93,
+      141.63
+    ],
+    "affectedSuppliers": [
+      "sup-007"
+    ]
+  },
+  {
+    "id": "evt-017",
+    "title": "European Carbon Tax Hike",
+    "description": "Revised ETS carbon floor pricing takes effect, tightening margins for non-renewable powered smelting operations.",
+    "date": "2026-02-01",
+    "severity": "Info",
+    "category": "Regulatory",
+    "coordinates": [
+      51.49,
+      6.97
+    ],
+    "affectedSuppliers": [
+      "sup-019",
+      "sup-023"
+    ]
+  },
+  {
+    "id": "evt-018",
+    "title": "San Juan Port Strike",
+    "description": "Stevedore union initiates rolling 4-hour work stoppages, delaying primary aluminum ingot exports by 48 hours.",
+    "date": "2026-01-28",
+    "severity": "Warning",
+    "category": "Labor Strike",
+    "coordinates": [
+      -42.7692,
+      -65.0385
+    ],
+    "affectedSuppliers": [
+      "sup-013"
+    ]
+  },
+  {
+    "id": "evt-019",
+    "title": "Hydro Grid Maintenance",
+    "description": "Scheduled high-voltage transmission maintenance forces Sunndal smelter to reduce draft by 5% for 48 hours.",
+    "date": "2026-01-25",
+    "severity": "Info",
+    "category": "Infrastructure",
+    "coordinates": [
+      62.675,
+      8.56
+    ],
+    "affectedSuppliers": [
+      "sup-008"
+    ]
+  },
+  {
+    "id": "evt-020",
+    "title": "Bauxite Export Ban Rumors",
+    "description": "Local media reports suggest the government may tighten bauxite export quotas for Q2 to force domestic refinery investment.",
+    "date": "2026-01-20",
+    "severity": "Warning",
+    "category": "Geopolitical",
+    "coordinates": [
+      6.0,
+      -58.3
+    ],
+    "affectedSuppliers": [
+      "sup-020"
+    ]
+  },
+  {
+    "id": "evt-021",
+    "title": "Gladstone Freight Delay",
+    "description": "A derailment on the regional rail network restricts bauxite inflow to the refinery. Utilizing safety stock.",
+    "date": "2026-01-15",
+    "severity": "Warning",
+    "category": "Logistics",
+    "coordinates": [
+      -23.8427,
+      151.25
+    ],
+    "affectedSuppliers": [
+      "sup-014"
+    ]
+  },
+  {
+    "id": "evt-022",
+    "title": "Ma'aden Renewable Transition",
+    "description": "Facility signs major PPA for solar energy integration, expected to lower long-term Scope 2 emissions and stabilize costs.",
+    "date": "2026-01-10",
+    "severity": "Info",
+    "category": "Operational",
+    "coordinates": [
+      27.545,
+      49.208
+    ],
+    "affectedSuppliers": [
+      "sup-015"
+    ]
+  },
+  {
+    "id": "evt-023",
+    "title": "Renukoot Output Beats Target",
+    "description": "Q4 production figures indicate the refinery exceeded output targets by 4% due to process optimization.",
+    "date": "2026-01-05",
+    "severity": "Info",
+    "category": "Operational",
+    "coordinates": [
+      24.23,
+      83.03
+    ],
+    "affectedSuppliers": [
+      "sup-011"
+    ]
+  }
+]
