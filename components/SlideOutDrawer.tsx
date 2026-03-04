@@ -1,3 +1,5 @@
+"use client";
+
 import React, { ReactNode } from 'react';
 import { useDashboard, DrawerType } from '../context/DashboardContext';
 import { X } from 'lucide-react';

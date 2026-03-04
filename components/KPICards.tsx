@@ -1,3 +1,5 @@
+"use client";
+
 import React from 'react';
 import { Activity, AlertTriangle, TrendingUp, Ship } from 'lucide-react';
 import { useDashboard } from '../context/DashboardContext';
