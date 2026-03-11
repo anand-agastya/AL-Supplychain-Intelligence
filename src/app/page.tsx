@@ -19,7 +19,7 @@ export default function Home() {
           <h1 className="text-xl font-bold tracking-tight text-white flex items-baseline gap-2">
             <span className="w-8 h-8 bg-blue-600 rounded flex items-center justify-center text-sm self-center">AL</span>
             <span>Enterprise Procurement Radar: Aluminum</span>
-            <span className="text-sm font-normal text-slate-400 ml-2">- powered by Augent</span>
+            <span className="text-sm font-normal text-slate-400 ml-2">- powered by AuGENT</span>
           </h1>
         </header>
 
